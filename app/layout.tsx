@@ -11,7 +11,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`h-full antialiased`}
+      className={`h-full antialiased mx-10`}
     >
       <body>{children}</body>
     </html>
