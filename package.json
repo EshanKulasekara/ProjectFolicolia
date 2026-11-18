@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@appwrite.io/react": "^0.1.1",
+    "@tailwindcss/postcss": "^4.3.5",
     "@tanstack/react-query": "^5.108.0",
     "appwrite": "^25.2.0",
     "next": "16.4.6",
     "node-appwrite": "^26.2.0",
+    "postcss": "^8.5.33",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
@@ -22,9 +24,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "daisyui": "^5.8.1",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
     "tailwindcss": "4.3.3",
     "typescript": "^5"
-  }
+  },
+  "browserslist": "> 1%"
 }

@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div className="homepage">
       <h1>Hello Rithu</h1>
+      <button className="btn btn-primary">Click Me</button>
     </div>
   );
 }
