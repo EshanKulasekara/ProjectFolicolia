@@ -43,7 +43,7 @@ export default function Header(){
                 </ul>
               </div>
               <div className="navbar-end">
-                <a className="btn btn-primary btn-outline">Explore Now</a>
+                <a className="btn btn-primary btn-outline glass">Explore Now</a>
               </div>
             </div>
         </div>

@@ -1,4 +1,15 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Aboda";
+  src: url("/public/fonts/Abolda-Demo-Regular.otf");
+}
+
+@theme {
+  --font-display: "Aboda", sans-serif;
+}
+
 @plugin "daisyui" {
   themes: forest --default;
 }
+
